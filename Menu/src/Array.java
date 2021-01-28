@@ -9,6 +9,7 @@ public class Array {
 	          sum = sum+num;
 	      }
 	      System.out.println("Sum of array elements is:"+sum);
+		System.out.prinln("Updated");
 
 
 	}
